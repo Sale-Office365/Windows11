@@ -5,7 +5,7 @@
 ## KÍCH HOẠT BẰNG TOOLS ##
 
 - [Active AIO Tools V3.1.3](https://1drv.ms/u/s!AkwSBX-xWiVhgReolwU8a9uuJrz7?e=5ozreC)
-- [Online KMS Activation Script v6.0](https://github.com/Sale-Office365/Windows8-8.1/files/10002218/Online.KMS.Activation.Script.v6.0.txt) hoặc [KMS AIO UPDATE](https://1drv.ms/u/s!AkwSBX-xWiVhiUOElDhoWwYkV9io?e=xm5Awg)
+- [Online KMS Activation Script v6.0](https://github.com/Sale-Office365/Windows8-8.1/files/10002218/Online.KMS.Activation.Script.v6.0.txt) hoặc [KMS AIO UPDATE](https://1drv.ms/u/s!AkwSBX-xWiVhiUOElDhoWwYkV9io?e=xm5Awg) hoặc [KMS AIO UPDATE](https://1drv.ms/u/s!AkwSBX-xWiVhiUOElDhoWwYkV9io?e=xm5Awg)
 - [MAS 1.5 AIO CRC32 21D20776](https://github.com/Sale-Office365/Windows8-8.1/files/10002222/MAS.1.5.AIO.CRC32.21D20776.txt) hoặc [MAS UPDATE](https://1drv.ms/u/s!AkwSBX-xWiVhiT-3r9nKNHt51gBx?e=40ciuC), trang github [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/blob/master/MAS/All-In-One-Version/MAS_AIO.cmd)
 - [W10 Digital License Activation Script v7.0](https://1drv.ms/u/s!AkwSBX-xWiVhghRKkdb26kjbgeQU?e=Ghz2U1)
 
